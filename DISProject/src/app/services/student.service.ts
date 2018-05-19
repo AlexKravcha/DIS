@@ -13,7 +13,6 @@ export class StudentService {
   }
 
   getCourses() {
-    
     return this.courses;
   }
 }
